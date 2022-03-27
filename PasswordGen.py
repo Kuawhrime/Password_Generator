@@ -1,5 +1,4 @@
 import random
-encodings = utf_8
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 number = "0123456789"
