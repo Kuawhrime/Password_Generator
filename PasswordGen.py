@@ -1,5 +1,3 @@
-import encodings
-from encodings import utf_8
 import random
 encodings = utf_8
 lower = "abcdefghijklmnopqrstuvwxyz"
